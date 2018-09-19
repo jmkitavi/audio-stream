@@ -1,0 +1,5 @@
+rootProject.name = 'AudioStream'
+include ':react-native-audio-stream'
+project(':react-native-audio-stream').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-audio-stream/android')
+
+include ':app'
