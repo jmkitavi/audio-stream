@@ -19,7 +19,7 @@ export default class App extends Component<Props> {
         <Text style={styles.welcome}>Welcome to Qwetu Radio!</Text>
         <Text style={styles.instructions}>This is a test app for streaming services on Qwetu</Text>
         {/* <Player url={" https://stream.radiojar.com/2zyh3gv2zceuv.mp3"} /> */}
-        <Player url={"http://ample-09.radiojar.com/2zyh3gv2zceuv"} />
+        <Player url={"http://ample-09.radiojar.com/2zyh3gv2zceuv.mp3"} />
         {/* <Player url={"http://lacavewebradio.chickenkiller.com:8000/stream.mp3"} /> */}
       </View>
     );
