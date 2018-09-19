@@ -4077,9 +4077,9 @@ react-is@^16.5.0:
   version "16.5.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.5.2.tgz#e2a7b7c3f5d48062eb769fcb123505eb928722e3"
 
-react-native-audio-stream@^2.6.1:
+react-native-audio-stream@sirjmkitavi/react-native-audio-streaming:
   version "2.6.1"
-  resolved "https://registry.yarnpkg.com/react-native-audio-stream/-/react-native-audio-stream-2.6.1.tgz#e1ad0b80dd083905dc2a18872b5206f201dae7b0"
+  resolved "https://codeload.github.com/sirjmkitavi/react-native-audio-streaming/tar.gz/c59bc04e74d5f5f01840dd4d34f14dc998ebf72d"
 
 react-native@0.57.0:
   version "0.57.0"

@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.5.0",
     "react-native": "0.57.0",
-    "react-native-audio-stream": "^2.6.1"
+    "react-native-audio-stream": "sirjmkitavi/react-native-audio-streaming"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
